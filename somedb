@@ -1,0 +1,17 @@
+use somedb;
+db.somecollection.insert({
+"name": "Casagrande",
+"frase": "Pô, sla meo!"
+})
+
+db.somecollection.insert({
+"name": "Pelé",
+"frase": "Eu sou Jô Soares, sua piranha"
+"title": "Rei do Futeba"
+})
+
+db.somecollection.insert({
+"name": "José Wilker",
+"frase": "Eu sou ex-continuo, e você.... [CENSORED]",
+"title": "Ex-contínuo"
+})
